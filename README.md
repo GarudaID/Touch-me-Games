@@ -10,4 +10,5 @@ Important: Although the game is working on mobile devices, it's not going to wor
 </p><br>
 
 # Star the Repo ⭐
-<p align="">Please star the repo, it really helps me out and allows me to contribute more.</p>
+<p align="center">Please star the repo, it really helps me out and allows me to contribute more.</p>
+<img src="https://github.com/GarudaID/Touch-me-Games/blob/main/okesip.PNG">
