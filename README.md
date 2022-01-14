@@ -8,6 +8,10 @@ you can copy and paste this command in your browser console: "localStorage.clear
 Important: Although the game is working on mobile devices, it's not going to work really well,
  because the game is using the mousehover function to score it. Maybe I'll change that in the future.
 </p><br>
+<p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
 
 # Star the Repo ⭐
 <p align="center">Please star the repo, it really helps me out and allows me to contribute more.</p>
